@@ -13,12 +13,12 @@
   },
   "dependencies": {
     "express": "^5.2.1",
-    "runable": "1.0.0-alpha.19",
+    "runable": "1.0.0-alpha.20",
     "vue": "^3.5.40",
     "vue-router": "^5.2.0"
   },
   "devDependencies": {
-    "@runablejs/cli": "1.0.0-alpha.19",
+    "@runablejs/cli": "1.0.0-alpha.20",
     "@types/express": "^5.0.6",
     "@types/node": "^24.13.3",
     "tsx": "^4.23.12",
